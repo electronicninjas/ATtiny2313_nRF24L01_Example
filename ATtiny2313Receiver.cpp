@@ -170,7 +170,6 @@
 
 #define CE DDB0 // 12
 #define CSN DDB1 //13
-#define LED_PIN DDB2 //14
 //////////ATtiny2313 Receiver Example Project Macros End//////////
 
 //////////////////////tinySPI begin//////////////////////
